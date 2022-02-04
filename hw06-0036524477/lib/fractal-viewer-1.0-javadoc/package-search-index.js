@@ -1,1 +1,0 @@
-packageSearchIndex = [{"l":"All Packages","url":"allpackages-index.html"},{"l":"hr.fer.zemris.java.fractals.mandelbrot"},{"l":"hr.fer.zemris.java.fractals.viewer"}]
